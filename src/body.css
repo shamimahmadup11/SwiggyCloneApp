@@ -1,0 +1,39 @@
+.searchContainer{
+    width: 100vw;
+    height: 10vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 30px;
+    padding: 20px 0;
+  
+}
+.searchContainer input{
+    height: 60px;
+    width: 30%;
+    /* border: none; */
+    padding-left: 30px;
+    font-size: 20px;
+    border-radius: 10px;
+}
+.searchContainer button{
+    height: 60px;
+    width: 10%;
+    font-size: 20px;
+    border-radius: 10px;
+    cursor: pointer;
+
+}
+
+.restrountList{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    gap: 80px;
+    padding: 50px 100px;
+}
+.Body{
+    position: absolute;
+    top: 140px;
+    z-index: -1;
+}
