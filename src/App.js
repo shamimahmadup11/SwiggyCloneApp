@@ -9,7 +9,8 @@ function App() {
   return (
     <div className="App">
       <Navbar />
-      <Body data={Data} />
+      <Body data={Data}/>
+       
     </div>
   );
 }

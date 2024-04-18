@@ -15,7 +15,7 @@ export default function Navbar() {
                     <li>Search</li>
                     <li>Offers</li>
                     <li>Helps</li>
-                    <li className='signIn'>Sign In</li>
+                    <li className='signIn'>Sign in</li>
                     <li>Cart</li>
                 </ul>
             </div>
