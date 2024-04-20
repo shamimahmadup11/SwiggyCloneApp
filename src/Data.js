@@ -71,5 +71,23 @@ const data=[
         "time":"6.1 kms",
         "image":"https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/ff0747ae3755d4ed49a4d7c0c2d8a2d4",
       },
+      {
+        "name":"Jumboking "  ,
+        "descriptions":"American snack ",
+        "time":"6.1 kms",
+        "image":"https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/ff0747ae3755d4ed49a4d7c0c2d8a2d4",
+      },
+      {
+        "name":"Jumboking "  ,
+        "descriptions":"American snack ",
+        "time":"6.1 kms",
+        "image":"https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/ff0747ae3755d4ed49a4d7c0c2d8a2d4",
+      },
+      {
+        "name":"Jumboking "  ,
+        "descriptions":"American snack ",
+        "time":"6.1 kms",
+        "image":"https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/ff0747ae3755d4ed49a4d7c0c2d8a2d4",
+      },
 ]
 export default data; // Named export
