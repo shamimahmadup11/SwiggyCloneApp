@@ -10,7 +10,7 @@ export default function Body({ data }) {
 
   function filterData(searchText, restraunt) {
     return restraunt.filter((data) => {
-      return data.name.includes(searchText);
+      return data.name.toLowerCase() === searchText.toLowerCase();
     });
   }
 
